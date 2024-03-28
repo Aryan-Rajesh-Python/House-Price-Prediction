@@ -4,8 +4,6 @@ This Model/WebApp predicts real estate price in Bangalore. Many times we have co
 ## Deployment:
 This Web App is deployed to cloud (AWS EC2) where it can be accesssed. Running last command above will prompt that server is running on port 5000. 8. Now just load your cloud url in browser (for me it was ), website will open but it will not work unless I run this app's server in virtual OS Ubuntu.
 
-Web App Link(Heroku) - https://bangalore-house-price-predict.herokuapp.com/<br/>
-Web App Link (AWS EC2) - http://ec2-3-20-226-15.us-east-2.compute.amazonaws.com/
 
 ![image](WebApp.png)
 ## Technologies used:
@@ -16,10 +14,3 @@ Web App Link (AWS EC2) - http://ec2-3-20-226-15.us-east-2.compute.amazonaws.com/
 5. Jupyter notebook, visual studio code and pycharm as IDE
 6. Python flask for http server
 7. HTML/CSS/Javascript for UI
-
-## License and Copyright
-© Vishwas Basotra
-Licensed under the [MIT License](LICENSE).
-
-## Credits
-Referring to [codebasics](https://github.com/codebasics/py/tree/master/DataScience/BangloreHomePrices) helped me alot.
